@@ -3,6 +3,5 @@ It is a Telebot that categorises three forms of skin lesions: measles, chicken p
 
 #Telegram Bot Classification
 
-![image](https://github.com/Maha9-lakshmi/skinlesion_telebot/assets/105539126/0f4bb37d-a610-42fe-9c89-b4c20046361d)
-![image](https://github.com/Maha9-lakshmi/skinlesion_telebot/assets/105539126/78e80143-e10e-49e2-943f-6c4059645957)
-![image](https://github.com/Maha9-lakshmi/skinlesion_telebot/assets/105539126/de7823a4-85ad-4afd-90bb-bdabcf479822)
+![image](https://github.com/Maha9-lakshmi/skinlesion_telebot/assets/105539126/1870b7fa-27c4-441a-b405-72e0ecb7fab2)
+![image](https://github.com/Maha9-lakshmi/skinlesion_telebot/assets/105539126/83f3be94-e255-4be5-b5d1-67aa8a5d8d1a)
